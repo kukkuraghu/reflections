@@ -8,4 +8,6 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
     Add the files modified for a logical change to the staging area. Use Git commands status and diff to ensure the right files are added to Staging are. Then make the commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    Branches will help to keep mutliple versions (one for demo, one having a unstable feature I have been experimenting with, etc). I can have a branch for each of these versions.
     
