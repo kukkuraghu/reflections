@@ -4,4 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     It will make it easier to commit together the files changed for a logical change (like a bug fix). It also gives an opportunity to review before making the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    Add the files modified for a logical change to the staging area. Use Git commands status and diff to ensure the right files are added to Staging are. Then make the commit.
+
     
