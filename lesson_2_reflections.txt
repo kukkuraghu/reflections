@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+    When a repository is git initialized, the meta files are created. After initialization, the files in the repository are tracked.
+    Initialization is the method to tell Git to start tracking the files in the folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    It will make it easier to commit together the files changed for a logical change (like a bug fix). It also gives an opportunity to review before making the commit.
+    
