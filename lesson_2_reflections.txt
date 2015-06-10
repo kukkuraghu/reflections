@@ -14,3 +14,5 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
     A branch structure diagram will help the branches in a respository. Will be useful when decidig merges.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    Always doing merges manually is time consuming. We can rely on Git's  automatic merge whenever there is no conflict. We can also review the automatically merged changes with git diff - to make sure it is not causing any indirect conflicts.
